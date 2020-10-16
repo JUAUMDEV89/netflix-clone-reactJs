@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #111;
+    color:white;
+    margin: 0px;
+    font-family:'Roboto', sans-serif;
+}
+
+.lists{
+    margin-top: -160px;
+}

@@ -1,0 +1,83 @@
+[1009/034500.467:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1009/034500.499:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1009/034500.499:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1009/205808.623:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1009/205808.628:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1009/205808.629:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1009/205808.654:ERROR:process_info.cc(359)] UncheckedAllocate
+[1009/210307.212:ERROR:settings.cc(430)] Settings version is not 5
+[1009/210340.805:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\af7c04c0-4922-4543-9ee9-5f46a794402a: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/210631.399:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1009/210631.401:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1009/210631.402:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1009/210631.423:ERROR:process_info.cc(359)] UncheckedAllocate
+[1009/210631.583:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d6a5156f-1fa3-41b4-b3f0-7ea7c3a33cd7: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/211307.289:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\10d3f3b1-cad8-47dd-9f9a-0001333f064b: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/211307.295:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\17f7df84-9384-4db9-9f3f-4aa553689825: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/211307.322:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b9096aab-cbe6-491f-8c65-96cc2cc80a54: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/211307.339:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/211307.372:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\2ff5739d-d581-4d0b-a98d-7b3868274755: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/213413.779:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1009/213413.786:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1009/213413.786:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1009/213413.806:ERROR:process_info.cc(359)] UncheckedAllocate
+[1009/213413.975:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\bab57969-b293-43f7-849e-cd8faa51ed27: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/225302.906:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c282b392-48ee-44a4-9c2e-866f3810d6a5: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/230302.938:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/230302.977:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\60a4dfb9-2d36-458d-ab58-bc953a9f0afb: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/230302.991:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\54aafe3a-127c-4f8f-8f07-6d8c6c71be9c: O sistema não pode encontrar o caminho especificado. (0x3)
+[1009/230303.003:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\fc37cb85-8afe-4bff-9463-3d51bae28ac9: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.310:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\02432991-1e40-49a6-9851-116b6e092204: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.351:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\703a021f-7ea4-4853-bdb6-8a78b0ba0413: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.357:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\846748a8-d6f8-4cc9-a978-19539142c92e: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.363:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\aa2c67d5-bcbd-4a76-86b4-b76c413fcace: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.372:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d70ae020-a5f5-460e-8d06-2da11ef27a29: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.376:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d8188481-dfd1-4875-8870-cc2827fcfed1: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.380:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ec1a35f6-ee2f-4831-a946-e0a482d9e6b3: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.383:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ec2c56ae-96fa-4865-87de-0f7a95ac7152: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/092045.390:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/101616.706:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/104149.868:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b0f30b45-42f0-4998-a8e3-fcdc9d4ec3e9: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/134622.334:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d8eea750-8ea3-456c-bc41-fc251c99ec03: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.480:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.610:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0be4c9c1-c410-487a-97d2-c7cbf36e967d: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.623:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\a187b412-e8c7-495e-92af-57cd55013558: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.635:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0a0e46a9-16ae-45da-9098-ebd4e1520a05: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.647:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\05cb0535-f73d-4896-b876-6debee1dffe5: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.661:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\bb10d4f1-21ef-4827-91cd-ab508cba0380: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.691:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c6d1d219-41e9-44ff-af81-d0b7e6d9f508: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/141135.703:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\e598f48b-8eb4-4d40-b583-f84c7d998f89: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/152848.173:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/154841.280:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\e69300a8-413b-4180-9b45-c7a0a05f7787: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/161458.534:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1011/161458.539:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1011/161458.539:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1011/161458.559:ERROR:process_info.cc(359)] UncheckedAllocate
+[1011/161458.755:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b7d7c530-1484-4477-a2d5-6af3b630bbeb: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/161624.773:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0de100f2-ef45-49e0-a3cc-6668efa2ffd0: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/162039.937:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\1c454d47-6244-4ac4-8154-29bcc68b7111: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/162103.251:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1011/162103.252:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1011/162103.252:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1011/162103.265:ERROR:process_info.cc(359)] UncheckedAllocate
+[1011/162103.307:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1011/162103.319:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1011/162103.319:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1011/162103.323:ERROR:process_info.cc(359)] UncheckedAllocate
+[1011/162103.403:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\06824fc2-c8d5-4e53-a095-13b0ae32013b: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/162108.040:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\9f7246fc-e7fa-41b2-8dfa-5cba1dd33a8d: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/162112.106:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\73b68fb0-5904-482c-b1df-669b5d0c54cf: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/162157.618:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\32e0edd0-6026-42e2-97bd-00f508f4fbe1: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/180728.148:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/180728.193:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c3a32249-f9a7-4601-afc4-b0c600e1f6ee: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/180728.209:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0e125fbf-6ad0-4263-bbe7-e2bf5c162151: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/184018.053:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1011/184018.059:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1011/184018.059:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1011/184018.059:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O arquivo de paginação é muito pequeno para que esta operação seja concluída. (0x800705AF)
+[1011/184018.060:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1011/184018.060:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1011/184018.085:ERROR:process_info.cc(359)] UncheckedAllocate
+[1011/184018.085:ERROR:process_info.cc(359)] UncheckedAllocate
+[1011/184018.310:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d9537bef-b151-433f-bbce-7124beba1e0e: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/184021.847:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Leuda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\262b8d28-0a9d-4370-84f9-ba219c1f3cef: O sistema não pode encontrar o caminho especificado. (0x3)
