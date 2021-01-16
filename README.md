@@ -18,4 +18,4 @@ $ npm install ou $ yarn install
 # Execute a aplicação em modo de desenvolvimento
 $ npm start ou $ yarn install
 
-# O servidor inciará na porta:3000- acesse <http://localhost:3000>
+# O servidor iniciará na porta:3000- acesse <http://localhost:3000>
