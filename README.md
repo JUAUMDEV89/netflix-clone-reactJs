@@ -1,3 +1,15 @@
 <h1>Netflix Clone</h1>
 
-<img style="width:100px; height:100px;" src="https://yt3.ggpht.com/ytc/AAUvwngDBuChyi5LOiP4Od1GOqyczL6Sx9I-Ujk6rCP0Sg=s900-c-k-c0x00ffffff-no-rj" />
+# Clone este repositório
+$ git clone <https://github.com/JUAUMDEV89/react-clone-netflix.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd react-clone-netflix
+
+# Instale as dependências
+$ npm install ou $ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm start ou $ yarn install
+
+# O servidor inciará na porta:3000- acesse <http://localhost:3000>
