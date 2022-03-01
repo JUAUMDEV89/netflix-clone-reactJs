@@ -13,9 +13,9 @@ $ git clone <https://github.com/JUAUMDEV89/react-clone-netflix.git>
 $ cd react-clone-netflix
 
 # Instale as dependências
-$ npm install ou $ yarn install
+$ npm install ou $ yarn add
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm start ou $ yarn install
+$ npm start ou $ yarn start
 
 # O servidor iniciará na porta:3000- acesse <http://localhost:3000>
